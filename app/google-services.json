@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82175657804",
+    "project_id": "prontodiary-f7a34",
+    "storage_bucket": "prontodiary-f7a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82175657804:android:67d6a92ae505726315b1e9",
+        "android_client_info": {
+          "package_name": "com.mwenda.prontodiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82175657804-t4vmaeg3880grcqm0atl0frmqa9v8j4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBso026kybp1j98-24lWL6KrbcduH30w-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82175657804-t4vmaeg3880grcqm0atl0frmqa9v8j4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
